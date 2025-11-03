@@ -1,0 +1,2 @@
+# HeroTale
+// Namespace list
